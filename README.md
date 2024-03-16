@@ -1,0 +1,1 @@
+scripts of basic and an advanced port scanner. Can be used for pentest purposes or any kind of ethical  hacking that requires scanning an IP. Used python and socket libraries. import necessary libraries as mentioned.
